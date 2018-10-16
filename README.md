@@ -1,2 +1,2 @@
 # github-for-web-designers
-##[View the companion reference site](https://git-scm.com/book/en/v2)
+##[View the companion reference site](https://teja2074.github.io/github-for-web-designers/)
